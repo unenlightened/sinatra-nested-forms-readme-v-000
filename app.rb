@@ -17,3 +17,4 @@ class App < Sinatra::Base
   erb :student
 end
 end
+s
